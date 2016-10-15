@@ -20,3 +20,4 @@ public class Triangle {
         triangle(n,espace);
     }
 }
+//
